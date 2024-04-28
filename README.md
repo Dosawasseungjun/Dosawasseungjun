@@ -36,4 +36,14 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
-###
+
+### Achivements
+
+#### 2022
+- 2022 홍익대학교 프로그래밍 경진대회 은상(3위)
+- 2022 Summer ICPC Sinchon Camp COntest 중급 7위
+
+#### 2023
+- 2023 Winter ICPC Sinchon Camp COntest 중급 3위
+- 2023 Summer ICPC Sinchon Camp COntest 중급 2위
+- SCPC 1차 예선 통과 (4솔)
