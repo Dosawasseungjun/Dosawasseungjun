@@ -22,9 +22,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### studying
+### Problem Solving
+* [codeforces](https://codeforces.com/users/dosaseung)
+* [Baekjoon Online Judge](https://acmicpc.net/user/dosawas)
+* [solved.ac](https://solved.ac/dosawas)
+* [atcoder](https://atcoder.jp/users/dosawas)
+
+### Studying
 <!--![로고명](https://img.shields.io/badge/로고명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상)-->
 ![Rust](https://img.shields.io/badge/Rust-000000.svg?&style=for-the-badge&logo=Rust&logoColor=Black)      
 
 ### Skills
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
+###
