@@ -2,8 +2,9 @@
 
 * 한승준입니다.
   -  <a target="_blank" href=https://dosawasseungjun.github.io>blog</a>    
-  -  <a target="_blank" href=https://www.youtube.com/channel/UC1B7Pdx5dveHmxEjh_SK2kg>youtube</a>      
-![dosawas GitHub stats](https://github-readme-stats.vercel.app/api?username=Dosawasseungjun&show_icons=true&theme=radical)
+  -  <a target="_blank" href=https://www.youtube.com/channel/UC1B7Pdx5dveHmxEjh_SK2kg>youtube</a>
+ 
+![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dosawasseungjun&theme=default)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dosawas)](https://solved.ac/dosawas/)
 
 <!--
