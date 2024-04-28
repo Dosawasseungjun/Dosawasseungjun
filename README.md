@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 -->
 
 ### Problem Solving
-* [codeforces](https://codeforces.com/users/dosaseung)
-* [Baekjoon Online Judge](https://acmicpc.net/user/dosawas)
+* [codeforces](https://codeforces.com/profile/dosaseung)
+* [Baekjoon Online Judge](https://www.acmicpc.net/user/dosawas)
 * [solved.ac](https://solved.ac/dosawas)
 * [atcoder](https://atcoder.jp/users/dosawas)
 
